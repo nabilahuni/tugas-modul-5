@@ -31,7 +31,7 @@
 
             <!-- Password input -->
             <div class="form-outline mb-4">
-              <label class="form-label" for="form1Example23"><i class="bi bi-chat-left-dots-fill"></i> Password</label>
+              <label class="form-label" for="form1Example23"><i class="bi bi-chat-left-dots-fill"></i>Kata sandi</label>
               <input type="password" id="form1Example23" class="form-control form-control-lg py-3" name="password" autocomplete="off" placeholder="password" style="border-radius:25px ;" />
 
             </div>
