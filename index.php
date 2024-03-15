@@ -36,6 +36,14 @@
 
             </div>
 
+            <!-- email input -->
+            <div class="form-outline mb-4">
+              <label class="form-label" for="form1Example23"><i class="bi bi-chat-left-dots-fill"></i> Email</label>
+              <input type="email" id="form1Example23" class="form-control form-control-lg py-3" name="email" autocomplete="off" placeholder="password" style="border-radius:25px ;" />
+
+            </div>
+
+
 
             <!-- Submit button -->
             <!-- <button type="submit" class="btn btn-primary btn-lg">Login in</button> -->
