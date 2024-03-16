@@ -43,10 +43,10 @@
 
             </div>
 
-          <!-- nomor Hp-->
+          <!-- NOMOR HP -->
           <div class="form-outline mb-4">
-              <label class="form-label" for="form1Example23"><i class="bi bi-chat-left-dots-fill"></i> Nomor HP</label>
-              <input type="telepon" id="form1Example23" class="form-control form-control-lg py-3" name="telepon" autocomplete="off" placeholder="password" style="border-radius:25px ;" />
+              <label class="form-label" for="form1Example23"><i class="bi bi-chat-left-dots-fill"></i> INPUT NOMOR HP</label>
+              <input type="HP" id="form1Example23" class="form-control form-control-lg py-3" name="HP" autocomplete="off" placeholder="HP" style="border-radius:25px ;" />
 
             </div>
 
